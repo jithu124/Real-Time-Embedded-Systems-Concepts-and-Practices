@@ -1,0 +1,3 @@
+Apr 17 22:24:23 jithu-G3-3579 jithu: [COURSE:1][ASSIGNMENT:1]: Linux jithu-G3-3579 5.13.0-39-generic #44~20.04.1-Ubuntu SMP Thu Mar 24 16:43:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+Apr 17 22:24:29 jithu-G3-3579 pthread: [COURSE:1][ASSIGNMENT:1] Hello World from Main!
+Apr 17 22:24:29 jithu-G3-3579 pthread: [COURSE:1][ASSIGNMENT:1] Hello World from Thread!
